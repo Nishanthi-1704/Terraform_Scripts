@@ -23,5 +23,5 @@ variable "redhatami" {
   default = "ami-052c08d70def0ac62"
 }
 variable "key_name" {
-  default = "devops"
+  default = "devopslab2020"
 }
